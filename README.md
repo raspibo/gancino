@@ -10,8 +10,3 @@ how to use it
 
 Print it, drill one or more holes where you need to place the screws or bolts, hook your device. :-)
 
-TODO
-====
-
-- fill the blend object (it's currently empty, so it can be directly printed, right now)
-- export to STL
